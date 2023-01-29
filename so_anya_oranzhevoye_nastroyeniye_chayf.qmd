@@ -1,0 +1,227 @@
+---
+title: "Чайф – Оранжевое настроение (1994)"
+editor: source
+---
+
+```{r}
+#| include: false
+knitr::opts_chunk$set(echo = FALSE)
+library(checkdown)
+```
+
+
+- Автор слов, композитор – Владимир Шахрин 
+- Послушать - [тут](https://www.youtube.com/watch?v=HFDcI1GtvPE)
+- Уровень: А2
+- Грамматические темы: родительный падеж, употребление слов с корнем  -пол-, глаголы с префиксом -до
+- Лексические темы: расписание, еда
+- Коммуникативные темы: эмоции; цвет и его символы в культуре
+
+## Задание 1
+
+а) Соедините слово и картинку.
+
+<iframe src="https://learningapps.org/watch?v=ph0ft6yb323" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+б) Какая еда нарисована на картинках?
+
+в) Напишите по модели, используйте родительный падеж:
+ 
+Модель: 1. Стакан + молоко = стакан молока 
+
+2. Бутылка _______
+
+```{r}
+#| results: asis
+checkdown::check_question(answer = "кефира", 
+                          wrong = "Неверно", 
+                          right = "Верно!", 
+                          button_label = "Проверить")
+```
+
+3. Чашка _______
+
+```{r}
+#| results: asis
+checkdown::check_question(answer = "кофе", 
+                          wrong = "Неверно", 
+                          right = "Верно!", 
+                          button_label = "Проверить")
+```
+
+4. Тарелка  _______
+
+```{r}
+#| results: asis
+checkdown::check_question(answer = "каши", 
+                          wrong = "Неверно", 
+                          right = "Верно!", 
+                          button_label = "Проверить")
+```
+
+
+5. Пачка ______
+
+```{r}
+#| results: asis
+checkdown::check_question(answer = "чипсов", 
+                          wrong = "Неверно", 
+                          right = "Верно!", 
+                          button_label = "Проверить")
+```
+
+::: {#fig-elephants layout-ncol=2}
+
+![буханка хлеба](images/bread_1.jpg){#fig-surus}
+
+![батон](images/bread_2.png){#fig-hanno}
+
+Как обращаться с хлебом?
+:::
+
+полови́на + чего?  (Р.п. 2)
+полови́на ста́кана
+половина à пол + чего? (Р.п. 2)
+полста́кана 
+
+## Задание 2.
+
+Подпишите картинки, используйте корень -пол-
+
+
+![](images/bottle.jpg)
+
+
+```{r}
+#| results: asis
+checkdown::check_question(answer = "полбутылки", 
+                          wrong = "Неверно", 
+                          right = "Верно!", 
+                          button_label = "Проверить")
+```
+
+
+![](images/bread_3.jpg)
+
+```{r}
+#| results: asis
+checkdown::check_question(answer = "полбатона", 
+                          wrong = "Неверно", 
+                          right = "Верно!", 
+                          button_label = "Проверить")
+```
+
+![](images/bread_4.jpg)
+
+```{r}
+#| results: asis
+checkdown::check_question(answer = "полбуханки", 
+                          wrong = "Неверно", 
+                          right = "Верно!", 
+                          button_label = "Проверить")
+```
+
+![](images/milk.png)
+
+```{r}
+#| results: asis
+checkdown::check_question(answer = "полстакана", 
+                          wrong = "Неверно", 
+                          right = "Верно!", 
+                          button_label = "Проверить")
+```
+
+![](images/plate.png)
+
+```{r}
+#| results: asis
+checkdown::check_question(answer = "полтарелки", 
+                          wrong = "Неверно", 
+                          right = "Верно!", 
+                          button_label = "Проверить")
+```
+
+
+## Задание 5. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HFDcI1GtvPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Слушайте песню, пишите слова в пропусках: 
+
+Бутылка кефира, полбатона
+
+Бутылка кефира, полбатона
+
+А я сегодня дома
+
+А я сегодня дома
+
+А я сегодня дома один.
+
+
+С утра я почитаю _______ (1), 
+
+И, может быть, сгоняю в кино.
+
+И, в общем, всё равно*,
+
+И, в общем, всё равно,
+
+И, в общем, всё равно какое.
+
+
+А потом, стоя на балконе,
+
+Я буду _______ (2) на прохожих.
+
+На девчонок,
+
+На весенних девчонок,
+
+На весенних девчонок и немного на парней.
+
+А потом, проходя мимо _______ (3), 
+
+Я скажу: "А что, не так уж я и страшен"
+
+Я даже немного,
+
+Я даже немного,
+
+Я даже немного ничего**.
+
+
+А я похож на новый Икарус***
+
+А у меня такая же _______ (4),
+
+И как у него,
+
+И как у него,
+
+Оранжевое настроение!
+
+
+А ______ (5) я допью ровно в десять.
+
+А батон я доем чуть пораньше.
+
+И перед сном,
+
+И скажу перед ______ (6),
+
+И скажу: "Ах, мама, до чего хорошо!"****
+
+
+Оранжевое небо,
+
+Оранжевое солнце,
+
+Оранжевая мама,
+
+Оранжевый верблюд,
+
+Оранжевые песни
+
+Оранжево поют!
+

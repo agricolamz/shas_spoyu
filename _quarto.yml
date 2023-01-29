@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "щас спою"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Главная
+      - text: Песни
+        menu:
+          - so_anya_oranzhevoye_nastroyeniye_chayf.qmd
+          - so_tonya_zayka_moya.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
